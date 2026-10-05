@@ -1,0 +1,27 @@
+ticker,entity_name,project_metric,xbrl_taxonomy,xbrl_tag,label,units,annual_10k_observation_count
+AMZN,AMAZON COM INC,revenue,us-gaap,RevenueFromContractWithCustomerExcludingAssessedTax,"Revenue from Contract with Customer, Excluding Assessed Tax",USD,48
+AMZN,AMAZON COM INC,revenue,us-gaap,SalesRevenueNet,"Revenue, Net (Deprecated 2018-01-31)",USD,91
+AMZN,AMAZON COM INC,operating_income,us-gaap,OperatingIncomeLoss,Operating Income (Loss),USD,115
+AMZN,AMAZON COM INC,net_income,us-gaap,NetIncomeLoss,Net Income (Loss) Attributable to Parent,USD,139
+AMZN,AMAZON COM INC,total_assets,us-gaap,Assets,Assets,USD,45
+AMZN,AMAZON COM INC,stockholders_equity,us-gaap,StockholdersEquity,Stockholders' Equity Attributable to Parent,USD,68
+AMZN,AMAZON COM INC,operating_cash_flow,us-gaap,NetCashProvidedByUsedInOperatingActivities,Net Cash Provided by (Used in) Operating Activities,USD,51
+AMZN,AMAZON COM INC,capital_expenditures,us-gaap,PaymentsToAcquirePropertyPlantAndEquipment,"Payments to Acquire Property, Plant, and Equipment",USD,24
+AMZN,AMAZON COM INC,capital_expenditures,us-gaap,PaymentsToAcquireProductiveAssets,Payments to Acquire Productive Assets,USD,24
+GOOGL,Alphabet Inc.,revenue,us-gaap,RevenueFromContractWithCustomerExcludingAssessedTax,"Revenue from Contract with Customer, Excluding Assessed Tax",USD,15
+GOOGL,Alphabet Inc.,revenue,us-gaap,Revenues,Revenues,USD,18
+GOOGL,Alphabet Inc.,operating_income,us-gaap,OperatingIncomeLoss,Operating Income (Loss),USD,33
+GOOGL,Alphabet Inc.,net_income,us-gaap,NetIncomeLoss,Net Income (Loss) Attributable to Parent,USD,33
+GOOGL,Alphabet Inc.,total_assets,us-gaap,Assets,Assets,USD,22
+GOOGL,Alphabet Inc.,stockholders_equity,us-gaap,StockholdersEquity,Stockholders' Equity Attributable to Parent,USD,44
+GOOGL,Alphabet Inc.,operating_cash_flow,us-gaap,NetCashProvidedByUsedInOperatingActivities,Net Cash Provided by (Used in) Operating Activities,USD,33
+GOOGL,Alphabet Inc.,capital_expenditures,us-gaap,PaymentsToAcquirePropertyPlantAndEquipment,"Payments to Acquire Property, Plant, and Equipment",USD,33
+MSFT,MICROSOFT CORPORATION,revenue,us-gaap,RevenueFromContractWithCustomerExcludingAssessedTax,"Revenue from Contract with Customer, Excluding Assessed Tax",USD,51
+MSFT,MICROSOFT CORPORATION,revenue,us-gaap,SalesRevenueNet,"Revenue, Net (Deprecated 2018-01-31)",USD,77
+MSFT,MICROSOFT CORPORATION,revenue,us-gaap,Revenues,Revenues,USD,15
+MSFT,MICROSOFT CORPORATION,operating_income,us-gaap,OperatingIncomeLoss,Operating Income (Loss),USD,91
+MSFT,MICROSOFT CORPORATION,net_income,us-gaap,NetIncomeLoss,Net Income (Loss) Attributable to Parent,USD,143
+MSFT,MICROSOFT CORPORATION,total_assets,us-gaap,Assets,Assets,USD,34
+MSFT,MICROSOFT CORPORATION,stockholders_equity,us-gaap,StockholdersEquity,Stockholders' Equity Attributable to Parent,USD,51
+MSFT,MICROSOFT CORPORATION,operating_cash_flow,us-gaap,NetCashProvidedByUsedInOperatingActivities,Net Cash Provided by (Used in) Operating Activities,USD,39
+MSFT,MICROSOFT CORPORATION,capital_expenditures,us-gaap,PaymentsToAcquirePropertyPlantAndEquipment,"Payments to Acquire Property, Plant, and Equipment",USD,51

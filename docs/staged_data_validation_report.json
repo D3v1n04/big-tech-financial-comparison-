@@ -1,0 +1,37 @@
+{
+  "input_file": "/home/devin/projects/big-tech-financial-comparison/data/staged/financial_facts_2020_2025.csv",
+  "record_count": 126,
+  "checks": [
+    {
+      "check_name": "required_columns_present",
+      "passed": true,
+      "details": "All required columns are present."
+    },
+    {
+      "check_name": "expected_record_count",
+      "passed": true,
+      "details": "Found 126 records; expected 126."
+    },
+    {
+      "check_name": "unique_company_metric_year_key",
+      "passed": true,
+      "details": "All company, metric, and fiscal year combinations are unique."
+    },
+    {
+      "check_name": "complete_expected_company_metric_year_coverage",
+      "passed": true,
+      "details": "All expected company, metric, and fiscal year combinations exist."
+    },
+    {
+      "check_name": "required_values_not_blank",
+      "passed": true,
+      "details": "All required values are populated."
+    },
+    {
+      "check_name": "business_rules_and_source_provenance",
+      "passed": true,
+      "details": "All values, dates, source fields, tags, units, and business rules passed."
+    }
+  ],
+  "overall_status": "passed"
+}

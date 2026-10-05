@@ -1,0 +1,4 @@
+ticker,entity_name,cik,taxonomy_count,concept_count,fact_observation_count,earliest_annual_fiscal_year,latest_annual_fiscal_year,annual_fiscal_year_count,source_file
+AMZN,AMAZON COM INC,1018724,4,556,29761,2009,2025,17,AMZN_companyfacts.json
+GOOGL,Alphabet Inc.,1652044,4,557,20907,2015,2025,11,GOOGL_companyfacts.json
+MSFT,MICROSOFT CORPORATION,789019,2,565,32671,2010,2026,17,MSFT_companyfacts.json

@@ -1,0 +1,24 @@
+{
+  "actual_record_count": 126,
+  "expected_record_count": 126,
+  "output_file": "financial_facts_2020_2025.csv",
+  "required_metrics": [
+    "revenue",
+    "operating_income",
+    "net_income",
+    "total_assets",
+    "stockholders_equity",
+    "operating_cash_flow",
+    "capital_expenditures"
+  ],
+  "source_extraction_run_id": "20261003T224820Z",
+  "status": "completed",
+  "target_fiscal_years": [
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025
+  ]
+}
