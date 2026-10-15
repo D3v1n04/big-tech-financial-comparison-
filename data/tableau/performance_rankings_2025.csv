@@ -1,0 +1,4 @@
+"ticker","fiscal_year","capex_yoy_growth_pct","revenue_yoy_growth_pct","capital_intensity_pct","free_cash_flow_usd","free_cash_flow_margin_pct","direct_roe_pct","direct_roe_rank","free_cash_flow_margin_rank","revenue_growth_rank","capital_intensity_rank","overall_score","overall_rank"
+GOOGL,2025,74.07,15.09,22.70,73266000000,18.19,35.70,1,2,1,2,6,1
+MSFT,2025,45.13,14.93,22.91,71611000000,25.42,33.28,2,1,2,3,8,2
+AMZN,2025,58.82,12.38,18.39,7695000000,1.07,22.29,3,3,3,1,10,3
